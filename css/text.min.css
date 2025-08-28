@@ -1,0 +1,1 @@
+.text{line-height:1.5;max-width:50rem}.text--limited{max-width:36.3125rem}@media (max-width: 20em){.text{font-size:1rem}}@media (min-width: 20em) and (max-width: 73.125em){.text{font-size:clamp(1rem,0.90588235294375rem + .4705882353vw,1.25rem)}}@media (min-width: 73.125em){.text{font-size:1.25rem}}
